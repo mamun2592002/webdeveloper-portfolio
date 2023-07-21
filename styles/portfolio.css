@@ -21,7 +21,7 @@ body {
 /* nav related styles */
 nav {
     display: flex;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -44,4 +44,8 @@ nav li {
 nav a {
     text-decoration: none;
     color: #474747;
+}
+/* header ralated styles */
+.header{
+    background-color: #FFF8F3;
 }
